@@ -12,7 +12,7 @@ Installation<br>
 Clone the repository:<br>
 bash<br>
 Copy code<br>
-git clone https://github.com/yourusername/weather-app-widgets.git<br>
+git clone https://github.com/manishdahake10/Weather-Web-Card.git<br>
 Install dependencies:<br>
 bash<br>
 Copy code<br>
